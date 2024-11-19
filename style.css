@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background: url("pictures/bg.png");
+    height: 129vh;
+
+}
+
+.header{
+    padding-top: 37px;
+    height: 82px;
+    border-bottom: 1px solid #7e868e15;
+}
+.header p{
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.header-elements {
+    margin-left: 370px;
+    margin-right: 370px;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.logo{
+    width: 179px;
+}
+
+.address {
+    margin-right: 69px;
+    margin-left: 550px;
+    display: flex;
+    width: 151px;
+    height: 36px;
+}
+
+.address-img{
+    margin-right: 12px;
+}
+
+
+.address-text{
+    font-size:12px;
+    line-height: 18px;
+    width: 122px;
+    height: 36px;
+
+}
+
+.telephone{
+    display: flex;
+    width: 235px;
+    height: 51px;
+}
+
+.telephone-img{
+    margin-right: 15px;
+}
+
+.telephone-text .typography{
+    font-size: 20px;
+    line-height: 30.4px;
+    font-weight: bold;
+}
+
+.telephone-text .schedule{
+    font-size: 13px;
+    line-height: 19.5px;
+}
